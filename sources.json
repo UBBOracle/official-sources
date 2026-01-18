@@ -4,5 +4,17 @@
     "author": "OsakiTsukiko",
     "url": "https://raw.githubusercontent.com/UBBOracle/test-source/main/source.json",
     "icon": "https://raw.githubusercontent.com/UBBOracle/test-source/main/icon.png"
+  },
+  {
+    "title": "Test Source 2",
+    "author": "OsakiTsukiko",
+    "url": "https://raw.githubusercontent.com/UBBOracle/test-source/main/source.json",
+    "icon": "https://avatars.githubusercontent.com/u/104794884?v=4"
+  },
+  {
+    "title": "Test Source 3",
+    "author": "OsakiTsukiko",
+    "url": "https://raw.githubusercontent.com/UBBOracle/test-source/main/source.json",
+    "icon": "https://not.a.valid.url.com"
   }
 ]
